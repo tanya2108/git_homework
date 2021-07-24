@@ -1,4 +1,4 @@
--  Always asks questions and clarification when lost and confused  
+
 - Practice Practice Practice
 
 - Always remember to plan ahead
